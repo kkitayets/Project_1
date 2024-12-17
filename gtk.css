@@ -1,0 +1,20 @@
+/* ~/.config/gtk-3.0/gtk.css */
+window {
+    background-color: #f0f4f8;
+}
+
+button {
+    background-color: #3498db;
+    color: white;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+entry {
+    background-color: #f7f9fc;
+    border: 1px solid #e1e8f0;
+    border-radius: 6px;
+}

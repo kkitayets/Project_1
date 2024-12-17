@@ -1,0 +1,4 @@
+Name,Longitude
+Satellite 1,10.0
+Satellite 2,20.0
+Satellite 3,30.0
